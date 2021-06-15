@@ -1,0 +1,36 @@
+﻿@model LabTask.Models.Student
+
+@{
+    ViewBag.Title = "AddStudent";
+}
+
+<h2>AddStudent</h2>
+
+
+    <div>
+        <form action="/Student/AddStudent" method="post">
+            <input type="text" name="Name" class="form-control" placeholder="Sam.." />
+           
+            @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+
+            <input type="date" name="Dob" class="form-control" placeholder="" />
+           
+            @Html.ValidationMessageFor(model => model.Dob, "", new { @class = "text-danger" })
+
+            <input type="text" name="Credit" class="form-control" placeholder="120.." />
+
+            @Html.ValidationMessageFor(model => model.Credit, "", new { @class = "text-danger" })
+
+            <input type="text" name="Cgpa" class="form-control" placeholder="3.5.." />
+            
+            @Html.ValidationMessageFor(model => model.Cgpa, "", new { @class = "text-danger" })
+
+            <input type="text" name="Dept_id" class="form-control" placeholder="18-3906-3.." />
+           
+           @Html.ValidationMessageFor(model => model.Dept_id, "", new { @class = "text-danger" })
+
+            <input type="submit" class="btn btn-block" value="Add Student" />
+        </form>
+    </div>
+
+

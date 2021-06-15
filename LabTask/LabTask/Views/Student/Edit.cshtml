@@ -1,0 +1,20 @@
+﻿@model LabTask.Models.Student
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+<div>
+    <form action="" method="post">
+        <input type="hidden"name="Id" value="@Model.Id" />
+        <input type="text" name="Name" value="@Model.Name" class="form-control" placeholder="Sam.." />
+        <input type="date" name="Dob" value="@Model.Dob" class="form-control" placeholder="" />
+        <input type="text" name="Credit" value="@Model.Credit" class="form-control" placeholder="120.." />
+        <input type="text" name="Cgpa" value="@Model.Cgpa" class="form-control" placeholder="3.5.." />
+        <input type="text" name="Dept_id" value="@Model.Dept_id" class="form-control" placeholder="18-3906-3.." />
+
+        <input type="submit" class="btn btn-block" value="Add Student" />
+    </form>
+</div>
+
