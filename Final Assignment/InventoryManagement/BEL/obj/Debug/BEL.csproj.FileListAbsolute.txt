@@ -1,0 +1,18 @@
+H:\Project\New folder (2)\InventoryManagement\BEL\bin\Debug\BEL.dll
+H:\Project\New folder (2)\InventoryManagement\BEL\bin\Debug\BEL.pdb
+H:\Project\New folder (2)\InventoryManagement\BEL\obj\Debug\BEL.csprojAssemblyReference.cache
+H:\Project\New folder (2)\InventoryManagement\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+H:\Project\New folder (2)\InventoryManagement\BEL\obj\Debug\BEL.dll
+H:\Project\New folder (2)\InventoryManagement\BEL\obj\Debug\BEL.pdb
+H:\Project\InventoryManagement\BEL\bin\Debug\BEL.dll
+H:\Project\InventoryManagement\BEL\bin\Debug\BEL.pdb
+H:\Project\InventoryManagement\BEL\obj\Debug\BEL.csprojAssemblyReference.cache
+H:\Project\InventoryManagement\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+H:\Project\InventoryManagement\BEL\obj\Debug\BEL.dll
+H:\Project\InventoryManagement\BEL\obj\Debug\BEL.pdb
+D:\New folder\Amit\Assignment\InventoryManagement\BEL\bin\Debug\BEL.dll
+D:\New folder\Amit\Assignment\InventoryManagement\BEL\bin\Debug\BEL.pdb
+D:\New folder\Amit\Assignment\InventoryManagement\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+D:\New folder\Amit\Assignment\InventoryManagement\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+D:\New folder\Amit\Assignment\InventoryManagement\BEL\obj\Debug\BEL.dll
+D:\New folder\Amit\Assignment\InventoryManagement\BEL\obj\Debug\BEL.pdb
